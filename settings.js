@@ -18,19 +18,19 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ"
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+global.botname = "Alphabot-Mdོ X ＡＬＩＥＮ ＡＬＦＡ"
+global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ x ＡＬＩＥＮ ＡＬＦＡ"
 global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
-global.github = "https://zeeoneofc.github.io/"
-global.ownernomer = "62887435047326"
-global.ownernomerr = "+62887435047326"
+global.youtube = "https://youtube.com/c/alienalfa"
+global.github = "https://alien-alfa.github.io/"
+global.ownernomer = "447405935355"
+global.ownernomerr = "+447405935355"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
-global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390","447405935355"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot-Mdོ' //sticker wm
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm
+global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" //max size 30 kb, so that the welcome image doesn't get delayed
+global.owner = ["62887435047326","62887435047326","6285342106390","447405935355"] //change so that the owner feature can be used
+global.packname = '© Alphabot-Mdོ /n/n/n/n/n' //sticker wm
+global.author = 'ZeeoneOfc x ＡＬＩＥＮ ＡＬＦＡ' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -40,17 +40,17 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
-    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
-    private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
-	bot: 'Fitur Khusus Pengguna Nomor Bot',
-    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '⏳ Sedang Di Proses',
-	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
-	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+    sukses: '🤗Done, Okey Bro~',
+    admin: 'This command can only be used by admins!',
+    botAdmin: 'This command can only be used when the bot becomes an admin!',
+    owner: 'This command can only be used by the owner!',
+    group: 'This command can only be used in groups !',
+    private: 'This command can only be used in private!',
+	bot: 'Bot Number User Special Features',
+    errtoimg: 'Sorry Currently Not Support Gif Sticker!',
+    wait: '⏳ In Process',
+	lockCmd: 'Feature Not Enabled By Owner!',
+	example1: 'Welcome @user to the @subject group. Do not forget to read the rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @date (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
 let file = require.resolve(__filename)
