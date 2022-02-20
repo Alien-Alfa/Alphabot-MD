@@ -647,6 +647,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ Nurutomo
 ├ Rashid
 ├ ZeeoneOfc
+├ Alien-Alfa
 ├ Penyedia Module
 ╰❒ And All Support
     `
@@ -1312,6 +1313,7 @@ exports.tqto = () =>{
 ├ Nurutomo
 ├ Rashid
 ├ ZeeoneOfc
+├ Alien-Alfa
 ├ Penyedia Module
 ╰❒ And All Support
 `
