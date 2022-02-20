@@ -85,7 +85,7 @@ node main
 * Ganti nama folder yang telah di-extract menjadi `ffmpeg`.
 * Run Command Prompt as Administrator.
 * Jalankan perintah berikut::
-```cmd
+```cmd 
 > setx /m PATH "C:\ffmpeg\bin;%PATH%"
 ```
 Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was saved`.
