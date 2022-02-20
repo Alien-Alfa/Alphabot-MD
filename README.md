@@ -113,7 +113,7 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 Owner Hisoka-Morou | Constributor | Constributor
 
 
- <a href="https://github.com/fatiharridho"><img src="https://github.com/fatiharridho.png?size=100" width="100" height="100"></a> | [![FERDIZ](https://github.com/FERDIZ-afk.png?size=100)](https://github.com/FERDIZ-afk) | [![RASHID](http://github.com/rashidsiregar28.png?size=100)](http://github.com/rashidsiregar28) 
+ <a href="https://github.com/fatiharridho"><img src="https://github.com/fatiharridho.png?size=100" width="100" height="100"></a> | [![FERDIZ](https://github.com/FERDIZ-afk.png?size=100)](https://github.com/FERDIZ-afk) | [![RASHID](https://github.com/rashidsiregar28.png?size=100)](https://github.com/rashidsiregar28) 
  ---|---|---
 [Fatih A.](https://github.com/fatiharridho) | [Ferdiz](https://github.com/FERDIZ-afk) | [Rashid](https://github.com/rashidsiregar28)
 For Help | For Help | Owner Chikabot
