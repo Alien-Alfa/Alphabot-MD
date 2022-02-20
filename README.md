@@ -110,7 +110,7 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 <a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![MhankBarBar](https://github.com/MhankBarBar.png?size=100)](https://github.com/MhankBarBar)
 ---|---|---
 [Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo) |[Mhankbarbar](https://github.com/MhankBarBar)
-Owner Hisoka-Morou | Constributor | Constributor
+Hisoka-Morou | Constributor | Constributor
 
 
  <a href="https://github.com/fatiharridho"><img src="https://github.com/fatiharridho.png?size=100" width="100" height="100"></a> | [![FERDIZ](https://github.com/FERDIZ-afk.png?size=100)](https://github.com/FERDIZ-afk) | [![RASHID](https://github.com/rashidsiregar28.png?size=100)](https://github.com/rashidsiregar28) 
@@ -123,7 +123,7 @@ For Help | For Help | Owner Chikabot
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/zeeoneofc.png?size=100)](http://github.com/zeeoneofc) | [![Alien-Alfa](https://github.com/Alien-Alfa.png?size=100)](https://github.com/Alien-Alfa) 
 ---|---|---
 [Adiwajshing](https://github.com/adiwajshing) | [ZeeoneOfc](https://zeeoneofc.github.io) | [Alien-Alfa](https://Alien-Alfa.github.io)
-Owner of Baileys | Owner of Api Alphabot | Owner of AlfaBot
+Owner of Baileys | Owner Alphabot | Owner of AlfaBot
 
 
 
