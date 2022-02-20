@@ -120,7 +120,7 @@ For Help | For Help | Owner Chikabot
 
 
 
-<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/zeeoneofc.png?size=100)](http://github.com/zeeoneofc) | [![Alien-Alfa](https://github.com/Alien-Alfa.png?size=100)](https://github.com/Alien-Alfa) 
+<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![ZeeoneOfc](http://github.com/zeeoneofc.png?size=100)](http://github.com/zeeoneofc) | [![Alien-Alfa](https://github.com/Alien-Alfa.png?size=100)](https://github.com/Alien-Alfa) 
 ---|---|---
 [Adiwajshing](https://github.com/adiwajshing) | [ZeeoneOfc](https://zeeoneofc.github.io) | [Alien-Alfa](https://Alien-Alfa.github.io)
 Owner of Baileys | Owner Alphabot | Owner of AlfaBot
