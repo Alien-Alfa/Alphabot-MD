@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Alien-alfa/Alphabot-MD/blob/main/image/lol.jpg?raw=true" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/Alien-alfa/Alphabot-MD/blob/V7/image/lol.jpg?raw=true" alt="ALPHA BOT" width="100"/>
 
 
 </p>
