@@ -56,7 +56,7 @@
 
 ## For Windows/RDP
 ```bash
-git clone https://github.com/zeeoneofc/Alphabot-Md.git
+git clone https://github.com/Alien-alfa/Alphabot-Md.git
 cd Alphabot-Md
 npm install
 node main
@@ -66,7 +66,7 @@ node main
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg
-git clone https://github.com/zeeoneofc/Alphabot-Md.git
+git clone https://github.com/Alien-alfa/Alphabot-Md.git
 cd Alphabot-Md
 npm install
 node main
